@@ -12,7 +12,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1500&color=1BADF8&center=true&vCenter=true&width=680&height=45&lines=Software+Engineer+II+%40+Microsoft;Distributed+systems%2C+commerce%2C+and+applied+AI;Building+reliable+systems+and+thoughtful+tools" width="680" alt="Software Engineer II at Microsoft. Distributed systems, commerce, and applied AI. Building reliable systems and thoughtful tools." />
 
-<p><img src="https://komarev.com/ghpvc/?username=Deepika-1201&label=Profile%20Views&color=1BADF8&style=flat" alt="Deepika-1201 profile views" /></p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=Deepika-1201&label=Profile%20Views&color=1BADF8&style=flat" alt="Deepika-1201 profile views" /></p>
 
 </div>
 
