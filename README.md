@@ -14,7 +14,10 @@
 
 <img src="./intro.svg" width="680" height="45" alt="Software Engineer II at Microsoft. Distributed systems, commerce, and applied AI. Building reliable systems and thoughtful tools." />
 
-<p align="right"><img src="https://komarev.com/ghpvc/?username=Deepika-1201&label=Profile%20Views&color=1BADF8&style=flat" height="20" alt="Deepika-1201 profile views" /></p>
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=Deepika-1201&style=pixel" width="1" height="1" alt="" />
+<img src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3DDeepika-1201&query=%28%2F%2F%2A%5Blocal-name%28%29%3D%27text%27%5D%29%5Blast%28%29%5D&label=Profile%20Views&color=1BADF8&style=flat&cacheSeconds=300" height="20" alt="Deepika-1201 profile views" title="Profile views; display cached for five minutes" />
+</p>
 
 </div>
 
