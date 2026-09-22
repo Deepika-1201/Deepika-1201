@@ -1,136 +1,156 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Shubham%20Tiwari&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%40%20Microsoft%20%7C%20Builder%20of%20Autonomous%20AI%20Systems&descAlignY=58&descSize=16" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:2563EB&height=210&section=header&text=Deepika%20Khullar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20II%20%40%20Microsoft&descAlignY=58&descSize=18" width="100%" alt="Deepika Khullar | Software Engineer II at Microsoft" />
 
-<a href="https://portfolio-website-rose-ten-93.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1BADF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/shubham-tiwari-76378117b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/SHUBHAMBRODY26/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="https://twitter.com/Shubham27806998"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="mailto:recruitshubhamtiwari@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<p><strong>Backend Engineering &bull; Distributed Systems &bull; Applied AI</strong></p>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1BADF8&center=true&vCenter=true&width=680&lines=Software+Engineer+%40+Microsoft;I+architect+multi-agent+AI+systems;Distributed+systems%2C+LLM+orchestration%2C+trading+bots;Ex-Salesforce+%7C+LeetCode+1800%2B+%7C+850%2B+solved" alt="typing" />
-
-<img src="https://komarev.com/ghpvc/?username=ShubhamBrody&label=Profile%20Views&color=1BADF8&style=flat" alt="profile views" />
+<a href="https://www.linkedin.com/in/deepikakhullar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="mailto:deepikakhullar59270@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Deepika" /></a>
+<a href="https://github.com/Deepika-1201?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub projects" /></a>
+<a href="https://leetcode.com/deck123/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" /></a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a Software Engineer at **Microsoft** who loves turning messy, large-scale problems into clean, autonomous systems. My day job is shipping enterprise-grade financial software; my nights are spent wiring up LLMs and multi-agent orchestrators that do real work.
+I'm **Deepika Khullar**, a **Software Engineer II at Microsoft**, building catalog-publishing and search pipelines for **Dynamics 365 Commerce**. My focus is data consistency, reliable recovery, and measurable performance.
 
-- 🔭 **At Microsoft**, I owned the end-to-end design of a **lot-level inventory-costing capability** on a large-scale ERP platform — re-architecting the inventory-to-cost pipeline across **45+ files** and shipping it to **Public Preview for 30+ enterprise customers**.
-- 🤖 I **architected _Bug Health 360_**, an AI bug-triage platform on a **multi-agent AutoGen orchestrator** (1 hub + 8 specialized agents) with a **14-signal scoring engine** (C#/.NET 8 + Python) that triages **up to 40 bugs/min** and cuts triage time **60–70%**. It won an **internal Microsoft hackathon**. 🏆
-- 🧩 I integrated **4 MCP servers** over **197K+ artifacts** behind a **FastAPI** backend and a **React 19** dashboard.
-- ⚡ Off the clock, I build **autonomous, multi-agent products** — trading systems, job-application copilots, offline voice assistants, and more.
-- 🌱 Currently rebuilding **Apache Kafka from scratch in Go** to go deep on distributed systems internals.
-- 🧠 **850+ LeetCode problems** solved with an **1800+ contest rating**.
+Previously, I worked on **AI-assisted visual storytelling at Microsoft Research**, **full-stack products at Nbyula**, **pricing infrastructure at Amazon**, and **on-call tooling at Google**.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| 🪙 [**AI-Trader-with-Orchestrator**](https://github.com/ShubhamBrody/AI-Trader-with-Orchestrator) | Multi-agent autonomous trading system for the Indian markets (NSE), streaming live data into an event-driven decision loop. | `Python` `FastAPI` `WebSockets` |
-| 🧭 [**HirePilot**](https://github.com/ShubhamBrody/HirePilot) | Distributed AI job-search copilot — **12 agents** + async Celery workers auto-discover, tailor a resume per JD, and apply to the highest-fit roles. | `FastAPI` `Celery` `Redis` `Playwright` `LLMs` |
-| 🧠 [**JARVIS**](https://github.com/ShubhamBrody/JARVIS) | Local-first, **offline** Windows voice assistant with a modular multi-agent brain. | `Python` `LLMs` |
-| 🗂️ [**AI-File-Manager**](https://github.com/ShubhamBrody/AI-File-Manager) | Chat with your files — **16 cooperating agents** managing every drive. | `Python` `Multi-Agent` |
-| 🕷️ [**autonomouseqa**](https://github.com/ShubhamBrody/autonomouseqa) | Autonomously crawls, audits, tests and reports on any web app — cutting manual regression effort by up to **90%**. | `TypeScript` `Playwright` |
-| ⚙️ [**KafkaFromScratch**](https://github.com/ShubhamBrody/KafkaFromScratch) | Rebuilding Apache Kafka from the ground up to master distributed-systems internals. | `Go` |
+### [PathForge | Search Algorithm Visualiser](https://github.com/Deepika-1201/search-algo-visualiser)
 
-<div align="center">
-<a href="https://github.com/ShubhamBrody?tab=repositories"><img src="https://img.shields.io/badge/Explore%20all%2040%2B%20projects-1BADF8?style=for-the-badge&logo=github&logoColor=white" alt="all repos" /></a>
-</div>
+An interactive playground for understanding how pathfinding algorithms explore a problem and find a route.
+
+- Visualizes **seven algorithms**: A*, Dijkstra, BFS, DFS, Greedy Best-First, Bidirectional Search, and Jump Point Search.
+- Supports weighted terrain, editable walls, maze generation, multiple heuristics, and four- or eight-directional movement.
+- Compares visited nodes, path length, path cost, and compute time, with an algorithm layer independent of the React interface.
+
+**Stack:** `Next.js` `TypeScript` `React` `Zustand` `Tailwind CSS` `Framer Motion`
+
+[Live Demo](https://deepika-1201.github.io/search-algo-visualiser/) &bull; [Source Code](https://github.com/Deepika-1201/search-algo-visualiser)
+
+### [Student Course Management System](https://github.com/Deepika-1201/StudentCourseManagementSystem)
+
+A Python application that brings student registration, sign-in, and course enrollment into one workflow.
+
+- Implements password hashing and JWT-based authentication in a Streamlit interface.
+- Offers course selection by year of study and a view of enrolled courses.
+- Models students and enrollments with SQLAlchemy and persists them in SQLite.
+
+**Stack:** `Python` `Streamlit` `SQLAlchemy` `SQLite` `PyJWT` `Passlib`
+
+[Source Code](https://github.com/Deepika-1201/StudentCourseManagementSystem)
+
+### [URL-to-QR Generator](https://github.com/Deepika-1201/QR_Scanner_Project)
+
+A focused command-line utility that prompts for a URL, generates a **PNG QR code**, and saves the original URL to a text file using Node.js streams and file-system APIs.
+
+**Stack:** `JavaScript` `Node.js` `Inquirer` `qr-image`
+
+[Source Code](https://github.com/Deepika-1201/QR_Scanner_Project)
+
+[Explore All Repositories](https://github.com/Deepika-1201?tab=repositories)
 
 ---
 
-## 🛠️ Tech Stack
+## Experience
+
+### Microsoft | Software Engineer II
+
+**August 2024 - Present**
+
+- Owned swatch integration and B2B catalog backfilling across **Dynamics 365 Commerce HQ, Commerce Scale Unit, and Commerce Data Exchange**, using C#, X++, and SQL Server. Designed multilingual contracts, incremental change tracking, and catalog-scoped attribute precedence.
+- Designed recovery and completion controls for two-phase publishing: versioned checkpoints, verified-progress cursors, catalog reconciliation, durable quarantine, and bounded retries.
+- Delivered deletion orchestration across **Azure Search, CDX, and HQ**, using transactional bulk updates, idempotent state transitions, and cross-catalog acknowledgment barriers.
+- Optimized publisher enrichment with run-scoped ratings caching: **17.46% lower median publish runtime**, **99.996% fewer ratings requests**, and **12.27% lower cumulative managed allocations** in a **local high-overlap synthetic benchmark of 25,000 catalogs and 250,000 documents**, with identical cache-on/off outputs.
+- Initiated an **AI-powered DRI assistant** effort, evaluating support-guide-grounded prompts and Copilot summarization for incident investigation and documentation, informed by Sev-2 on-call ownership.
+
+### Microsoft Research | Research Intern
+
+**January 2024 - June 2024**
+
+- Worked on **Kahani**, an AI-powered visual storytelling tool, contributing to system architecture, web interfaces, new features, and cloud hosting.
+- Used **Python, large language models, and Stable Diffusion XL**; conducted a **21-participant user study** and worked on a research paper for **UIST 2024**.
+
+### Nbyula | Software Engineer
+
+**July 2023 - December 2023**
+
+- Built browser push notifications with **Firebase Cloud Messaging and service workers**, integrating with a unified notification service.
+- Developed shareable group-invitation links through a URL-shortener microservice, plus category-aware listing APIs and UI improvements.
+- Worked with the **MERN stack, NestJS, TypeScript, Redis, and Jenkins**.
+
+### Amazon | Software Development Intern
+
+**February 2023 - June 2023**
+
+- Contributed to **Guardrails migration**, unifying digital-product pricing infrastructure across marketplace and territory granularity.
+- Worked on audit-queue handling and automated end-to-end testing with **Java, Google Guice, AWS, TestNG, and JUnit**.
+
+### Google | Software Engineering Intern
+
+**June 2022 - September 2022**
+
+- Built features for **On-call Observatory**, surfacing error-rate and latency anomalies to help engineers investigate production alarms.
+- Created a **Chrome extension** for direct access to diagnostic summaries and prioritized high-signal anomalies in the UI, helping reduce alert-debugging time from **20-30 minutes to 2-3 minutes**.
+- Worked with **Python and JavaScript**.
+
+---
+
+## Tech Stack
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)
+![X++](https://img.shields.io/badge/X%2B%2B-0F766E?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
 
-**Backend & Systems**
+**Web & Backend:** `React` `Next.js` `Node.js` `Express` `NestJS` `Redux` `Socket.IO` `REST APIs`
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=flat-square&logo=apachekafka&logoColor=white)
+**Cloud & Data:** `Microsoft Azure` `AWS` `Dynamics 365 Commerce` `Azure Search` `SQL Server` `MongoDB` `Redis`
 
-**AI / ML**
+**Engineering:** `Distributed Systems` `Microservices` `Caching` `DSA` `OOP` `Git` `Docker` `Jenkins` `CI/CD`
 
-![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-1BADF8?style=flat-square&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent%20Systems-6E56CF?style=flat-square&logo=probot&logoColor=white)
-
-**Databases & DevOps**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Applied AI:** `LLMs` `Stable Diffusion XL` `Prompt Evaluation` `GitHub Copilot` `Microsoft Copilot`
 
 ---
 
-## 📊 GitHub Analytics
+## Competitive Programming
 
-<div align="center">
+- **Google Code Jam to I/O for Women:** ranked **626** out of **5,000+** participants.
+- **ACM-ICPC Amritapuri Online Round:** college rank **8**, India rank **1223**.
+- **Google Kick Start 2021:** global rank **1922** in Round D and **2359** in Round B.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShubhamBrody&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1BADF8&icon_color=1BADF8" alt="stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamBrody&theme=tokyonight&hide_border=true&background=0D1117&ring=1BADF8&fire=1BADF8&currStreakLabel=1BADF8" alt="streak" />
+[LeetCode](https://leetcode.com/deck123/) &bull; [Codeforces](https://codeforces.com/profile/deck123) &bull; [CodeChef](https://www.codechef.com/users/deck123) &bull; [AtCoder](https://atcoder.jp/users/deck123)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamBrody&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1BADF8" alt="top langs" />
+## Education
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShubhamBrody&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ShubhamBrody/ShubhamBrody/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Won an internal Microsoft hackathon** for *Bug Health 360*, now adopted across multiple engineering teams.
-- 📦 Shipped a **lot-level inventory-costing capability to Public Preview** for 30+ enterprise customers.
-- 🧩 **LeetCode:** 850+ problems solved with an **1800+ contest rating**.
-- 🛠️ Sole owner of a financial-costing module — resolved **40+ escalated production incidents** and cut recurring incidents **~32%**.
+**Jaypee Institute of Information Technology, Noida**  
+B.Tech in Computer Science and Engineering | **July 2019 - June 2023**
 
 ---
 
 <div align="center">
 
-### 💬 Let's build something autonomous.
+### Let's Connect
 
-<a href="https://www.linkedin.com/in/shubham-tiwari-76378117b/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="connect" /></a>
-<a href="https://portfolio-website-rose-ten-93.vercel.app/"><img src="https://img.shields.io/badge/Visit%20my%20Portfolio-1BADF8?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
+<p>Backend engineering, distributed systems, developer tools, and applied AI.</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=120&section=footer" width="100%" alt="footer" />
+<a href="https://www.linkedin.com/in/deepikakhullar/">LinkedIn</a> &bull;
+<a href="mailto:deepikakhullar59270@gmail.com">Email</a> &bull;
+<a href="https://github.com/Deepika-1201">GitHub: @Deepika-1201</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F766E&height=100&section=footer" width="100%" alt="" />
 
 </div>
