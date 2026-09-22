@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Deepika%20Khullar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20II%20%40%20Microsoft%20%7C%20Distributed%20Systems%20and%20Applied%20AI&descAlignY=58&descSize=16" width="100%" alt="Deepika Khullar | Software Engineer II at Microsoft | Distributed Systems and Applied AI" />
+<img src="./header.svg" width="854" height="200" alt="Deepika Khullar | Software Engineer II at Microsoft | Distributed Systems and Applied AI" />
+
+<p><strong>Deepika Khullar</strong> &bull; Software Engineer II at Microsoft</p>
 
 <a href="https://github.com/Deepika-1201?tab=repositories"><img src="https://img.shields.io/badge/Projects-1BADF8?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub projects" /></a>
 <a href="https://www.linkedin.com/in/deepikakhullar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
@@ -10,9 +12,9 @@
 <br/>
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1500&color=1BADF8&center=true&vCenter=true&width=680&height=45&lines=Software+Engineer+II+%40+Microsoft;Distributed+systems%2C+commerce%2C+and+applied+AI;Building+reliable+systems+and+thoughtful+tools" width="680" alt="Software Engineer II at Microsoft. Distributed systems, commerce, and applied AI. Building reliable systems and thoughtful tools." />
+<img src="./intro.svg" width="680" height="45" alt="Software Engineer II at Microsoft. Distributed systems, commerce, and applied AI. Building reliable systems and thoughtful tools." />
 
-<p align="right"><img src="https://komarev.com/ghpvc/?username=Deepika-1201&label=Profile%20Views&color=1BADF8&style=flat" alt="Deepika-1201 profile views" /></p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=Deepika-1201&label=Profile%20Views&color=1BADF8&style=flat" height="20" alt="Deepika-1201 profile views" /></p>
 
 </div>
 
@@ -191,6 +193,6 @@ B.Tech in Computer Science and Engineering | **July 2019 - June 2023**
 
 <p><a href="https://github.com/Deepika-1201">@Deepika-1201</a></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=120&section=footer" width="100%" alt="" />
+<img src="./footer.svg" width="854" height="120" alt="" />
 
 </div>
