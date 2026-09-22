@@ -193,7 +193,7 @@ B.Tech in Computer Science and Engineering | **July 2019 - June 2023**
 
 <p align="center">
 <a href="https://www.linkedin.com/in/deepikakhullar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="Connect with Deepika on LinkedIn" /></a>
-<a href="https://portfolio-website-two-fawn-47.vercel.app/"><img src="https://img.shields.io/badge/My%20Portfolio-1BADF8?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Visit Deepika's portfolio" /></a>
+<a href="https://portfolio-website-two-fawn-47.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1BADF8?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Visit Deepika's portfolio" /></a>
 </p>
 
 <img src="./footer.svg" width="854" height="120" alt="" />
