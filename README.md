@@ -31,6 +31,7 @@ I'm a **Software Engineer II at Microsoft**, building reliable commerce and sear
 - **Reliability first:** I design recoverable publishing workflows and idempotent deletion orchestration, with checkpoints, bounded retries, and cross-catalog consistency.
 - **Applied AI:** I worked on **Kahani**, a visual storytelling tool at **Microsoft Research**, and now explore support-guide-grounded AI assistance for incident response.
 - **Previously:** full-stack engineering at **Nbyula**, pricing infrastructure at **Amazon**, and on-call debugging tools at **Google**.
+- **Side projects:** I design backend systems end to end, from HLD/LLD docs and ADRs to tested code: a **multi-PSP payment orchestrator** (Java, Spring Boot), a **distributed job scheduler** (Go, gRPC), and a **Git-like version control system** (TypeScript).
 - **Beyond work:** I build interactive algorithm tools and sharpen my problem-solving through **competitive programming**.
 
 ---
@@ -39,6 +40,8 @@ I'm a **Software Engineer II at Microsoft**, building reliable commerce and sear
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
+| [**Payment Orchestrator**](https://github.com/Deepika-1201/Payment-Orchestrator) | Multi-PSP payment orchestrator for India (**UPI, cards, netbanking**), with state machines, layered idempotency, **health-aware routing with failover**, outbox/inbox webhooks, reconciliation, and a **double-entry shadow ledger**. [**Design docs**](https://github.com/Deepika-1201/Payment-Orchestrator/blob/main/docs/architecture.md) | `Java` <code>Spring&nbsp;Boot</code> `PostgreSQL` `Flyway` |
+| [**Distributed Job Scheduler**](https://github.com/Deepika-1201/distributed-job-scheduler) | Durable jobs that run now, later, or on **cron schedules** across time zones, with **at-least-once execution**, epoch-fenced leases, retries, weighted priorities, and **fair sharing across tenants** on a gRPC worker fleet. [**Design docs**](https://github.com/Deepika-1201/distributed-job-scheduler/blob/main/docs/architecture.md) | `Go` `gRPC` `PostgreSQL` |
 | [**PathForge**](https://github.com/Deepika-1201/search-algo-visualiser) | Interactive visualizer for **7 pathfinding algorithms**, with weighted terrain, maze generation, and runtime comparisons. [**Live demo**](https://deepika-1201.github.io/search-algo-visualiser/) | `Next.js` `TypeScript` `Zustand` |
 | [**LoomHub**](https://github.com/Deepika-1201/Loom-Hub) | Git-like distributed version control system with a **CLI, REST API, and GitHub-style web hub**, built from scratch. | `TypeScript` `Node.js` `React` |
 | [**Student Course Management**](https://github.com/Deepika-1201/StudentCourseManagementSystem) | Student registration, **JWT authentication**, year-based course selection, and persistent enrollment records. | `Python` `Streamlit` `SQLAlchemy` `SQLite` |
@@ -59,6 +62,7 @@ I'm a **Software Engineer II at Microsoft**, building reliable commerce and sear
 ![X++](https://img.shields.io/badge/X%2B%2B-0F766E?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
@@ -67,9 +71,12 @@ I'm a **Software Engineer II at Microsoft**, building reliable commerce and sear
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -87,11 +94,13 @@ I'm a **Software Engineer II at Microsoft**, building reliable commerce and sear
 **Databases & DevOps**
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
